@@ -1,5 +1,7 @@
 # Demo for MQTT Demo for Python Meetup
 
+[Slides](https://docs.google.com/presentation/d/1Gmd3j4cvd-x6t3hNhPFckMBAaviJp3-Bn1sErjlPDO0/edit?usp=sharing)
+
 Steps to run
 
 # Publish and Subscribe 
